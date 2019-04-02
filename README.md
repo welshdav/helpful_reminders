@@ -8,6 +8,8 @@ Realtime Web Window Code Simulator (codesandbox.io)
 
 Hosting and Domain Name Registration (www.hover.com)
 
+Front-End Tricks Cheatsheet (https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
+
 <HTML Tricks /> 
 
 &#x25B2; ▲
